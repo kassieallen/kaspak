@@ -26,5 +26,5 @@ Although rather niche, the pumpkin and melon stems have been changed to be orang
 
 ### Non-Obtrusive
 Scaffolding and water are no longer nightmares to try and look through, and sounds you'll likely hear often have been turned down a tad to minimize the madness.
-The enchantment glint, pumpkin overlay, and off-hand `totems of undying` are not nearly as 'in-your-face', and particles have been "hollowed-out" in an attempt to be a bit easier to see beyond.
+The enchantment glint, pumpkin overlay, and off-hand `Totems of Undying` are not nearly as 'in-your-face', and particles have been "hollowed-out" in an attempt to be a bit easier to see beyond.
 Tangentially, but still worth noting, is that TNT is not only quieter, but also emits less particles.
