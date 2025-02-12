@@ -1,10 +1,11 @@
 # Welcome to Kaspak!
 This repo is for my new and improved MCBE utility pack, started as a fork, to be a minimal utility for redstone development.
-If you're just here for the pack, no problem! You can find them in the `build/` directory. 
+If you're just here for the pack, no problem! You can find them in the `build/` directory.
 
-The `src/` directory holds the contents of the latest version in a readable format, making it easier to see what's under the hood! :3
 > [!TIP]
 > If you want to use the pack directly on Windows or Android devices, simply change the file extension from `.zip` to `.mcpack`
+
+The `src/` directory holds the contents of the latest version in a readable format, making it easier to see what's under the hood! :3
 
 ## Features!
 ### Directional Indicators
