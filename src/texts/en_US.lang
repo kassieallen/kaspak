@@ -1,0 +1,10 @@
+﻿tile.end_portal_frame.name=End Portal Frame
+tile.flowing_lava.name=Flowing Lava
+tile.flowing_water.name=Flowing Water
+tile.water.name=Static Water
+tile.lava.name=Static Lava
+item.end_crystal.name=End Crystal
+tile.end_gateway.name=End Gateway
+tile.end_portal.name=End Portal
+tile.movingBlock.name=Air Block
+tile.bubble_column.name=Bubble Column

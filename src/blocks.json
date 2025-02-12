@@ -1,0 +1,78 @@
+{
+  "format_version": [1,1,0],
+  "sticky_piston": {
+    "carried_textures": {
+			"down": "piston_bottom_sticky",
+			"side": "piston_side_sticky",
+      "up": "piston_top_sticky"
+		},
+		"sound": "stone",
+		"textures": {
+			"down": "piston_bottom_sticky",
+			"side": "piston_side_sticky",
+      "up": "piston_inner_sticky"
+		}
+	},
+	"dispenser": {
+		"blockshape": "command_block",
+		"textures": {
+		  "up": "dispenser_top",
+		  "down": "dispenser_side",
+		  "north": "dispenser_side",
+		  "south": "dispenser_front_horizontal",
+		  "west": "dispenser_side",
+		  "east": "dispenser_front_vertical"
+		},
+		"carried_textures": {
+		  "up": "dispenser_top",
+		  "down": "dispenser_top",
+		  "north": "dispenser_side",
+		  "south": "dispenser_front_horizontal",
+		  "west": "dispenser_side",
+		  "east": "dispenser_side"
+		},
+		"sound": "stone"
+	},
+	"dropper": {
+		"blockshape": "command_block",
+		"textures": {
+		  "up": "dropper_top",
+		  "down": "dropper_top",
+		  "north": "dropper_side",
+		  "south": "dropper_front_horizontal",
+		  "west": "dropper_side",
+		  "east": "dropper_front_vertical"
+		},
+		"carried_textures": {
+		  "up": "dropper_top",
+		  "down": "dropper_top",
+		  "north": "dropper_side",
+		  "south": "dropper_front_horizontal",
+		  "west": "dropper_side",
+		  "east": "dropper_side"
+		},
+		"sound": "stone"
+	},
+	"observer": {
+		"textures": {
+		  "up": "observer_top",
+		  "down": "observer_bottom",
+		  "north": "observer_n",
+		  "south": "observer_s",
+		  "west": "observer_w",
+		  "east": "observer_e"
+		},
+		"sound": "metal"
+	},
+	"hopper": {
+		"textures": {
+			"up": "hopper_top",
+			"down": "hopper_bottom",
+			"north": "hopper_n",
+			"south": "hopper_s",
+			"west": "hopper_w",
+			"east": "hopper_e"
+		},
+		"sound": "metal"
+	}
+}
